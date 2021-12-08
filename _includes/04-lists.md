@@ -1,5 +1,4 @@
-<lu>
-  <li>Emoji</li>
-  <li>Ordered Lists</li>
-  <li>Unordered Lists</li>
-</lu>
+
+* Emoji
+* Ordered Lists
+* Unordered Lists
