@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<lu>
+  <li>Emoji</li>
+  <li>Ordered Lists</li>
+  <li>Unordered Lists</li>
+</lu>
